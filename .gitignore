@@ -1,0 +1,4 @@
+*.exe
+*.dsym
+main
+.vscode
