@@ -1,29 +1,39 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# Snake Game
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+This is a simple Snake game implemented in C++ using the Raylib library.
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
+![Snake Game](SnakeGameImg)
 
-# Video Tutorial
+## Features
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+- Classic Snake gameplay: Control a snake to eat food and grow longer.
+- Simple controls: Use arrow keys (Up, Down, Left, Right) to navigate the snake.
+- Score tracking: Keep track of your score as you eat food and grow longer.
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+## Installation
+
+1. Clone or download the Snake game repository from GitHub.
+2. Ensure you have the necessary dependencies installed, including Raylib.
+3. Compile the source code using your preferred C++ compiler.
+4. Run the executable file to start playing the game.
+
+## Gameplay
+
+1. Start the game by running the executable.
+2. Use the arrow keys to control the direction of the snake.
+3. Navigate the snake to eat food (represented by a red square) to grow longer.
+4. Avoid colliding with the snake's body or the boundaries of the game window.
+5. The game ends when the snake collides with itself or the boundaries.
+6. Try to achieve the highest score possible before the game ends.
+
+## Future Enhancements
+
+- Add additional features such as power-ups or obstacles.
+- Implement high scores tracking and display.
+- Improve game graphics and animations.
+
+## Credits
+- Built using [Raylib](https://www.raylib.com/)
+- Inspired by the classic Snake game
+
