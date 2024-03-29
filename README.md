@@ -2,7 +2,7 @@
 
 This is a simple Snake game implemented in C++ using the Raylib library.
 
-![Snake Game](SnakeGameImg)
+![Snake Game](SnakeGameImg.png)
 
 ## Features
 
