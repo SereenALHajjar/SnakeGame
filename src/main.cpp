@@ -178,7 +178,6 @@ int main()
     InitWindow( 2*offset + CELL_COUNT * CELL_SIZE, 2*offset+ CELL_COUNT * CELL_SIZE, "Snake");
     SetTargetFPS(60);
     Game game = Game();
-
     while (!WindowShouldClose())
     {
         // event handling
